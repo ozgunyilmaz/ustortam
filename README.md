@@ -1,5 +1,19 @@
 ﻿# Duyurular
 
+### 08.10.2018:
+
+* 1. ödev ile ilgili bilgiler: 
+  * Ödev linki: https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md
+  * Veriliş tarihi: 8 Ekim 2018   Teslim tarihi: 14 Ekim 2018 saat: 24.00
+  * Ödevler github.com'a yüklenecektir.
+  * Ödevin teslimi için, grup üyelerinin numara ve adları ile birlikte github linki (Ör: github.com/ad_soyad/odev1/) ozgun.yilmaz@ege.edu.tr adresine email ile gönderilecektir. 
+  * Ödev kontrolü 15 Ekim Pazartesi günü ders saatinde B8 sınıfında yapılacaktır. 
+  * Kontrole bütün grup üyelerinin katılması zorunludur ve her öğrenci ödevin html veya css kodunu anlatabilmelidir.
+  * Twitter Bootstrap veya başka bir hazır framework kullanılmamalı.
+  * 
+
+* 3. hafta sunumları eklendi. 
+
 ### 01.10.2018:
 
 * Ödevler için maksimum 3 kişiden oluşan gruplar oluşturulması gerekmektedir. 1 veya 2 öğrenciden oluşan gruplar da olabilir.
