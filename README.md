@@ -1,5 +1,8 @@
 ﻿# Duyurular
 
+### 20.11.2018:
+* 19 Kasım'da işlenen kaynak kodları eklendi.
+
 ### 08.10.2018:
 
 * 1. ödev ile ilgili bilgiler: 
