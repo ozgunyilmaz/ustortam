@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function validateForm() {
+  var x = document.querySelector("#name").value;
+  if (x == "") {
+    alert("Name must be filled out");
+    return false;
+  }
+}
+</script>
+</head>
+<body>
+
+<form name="myForm" action="/action_page.php" onsubmit="return validateForm()" method="post">
+  Aşağıdaki hiçbir input boş olmamalı: <br>
+  
+
+  <table style="width:40%">
+  <tr>
+    <td>Boş olmamalı: </td>
+    <td><input type="text" id="name"></td>
+    
+  </tr>
+  <tr>
+    <td>E-mail (Kurallara uygun email): </td>
+    <td><input type="text" id="email"></td>
+    
+  </tr>
+  <tr>
+    <td>Sadece sayısal: </td>
+    <td><input type="text" id="sayisal"></td>
+  </tr>
+  <tr>
+    <td>Sadece sayısal olan ve 12 basamak uzunluğundaki sayi: </td>
+    <td><input type="text" id="basamakli"></td>
+  </tr>
+  <tr>
+    <td>Sadece harf (a..z veya A..Z): </td>
+    <td><input type="text" id="alfa"></td>
+  </tr>
+  <tr>
+    <td>Sadece harf ve en fazla 30 uzunlukta olan string: </td>
+    <td><input type="text" id="max30"></td>
+  </tr>
+  <tr>
+    <td>3 kelimeden oluşan string: </td>
+    <td><input type="text" id="uckelime"></td>
+  </tr>
+  <tr>
+    <td>En az 1 büyük harf, en az 1 küçük harf, en az bir rakam ve en az 1 noktalama işareti içeren ve en az 8 uzunluğunda olan metin: </td>
+    <td><input type="text" id="password"></td>
+  </tr>
+  
+
+</table>
+
+<br>
+  <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>

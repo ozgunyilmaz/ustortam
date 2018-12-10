@@ -1,5 +1,17 @@
 ﻿# Duyurular
 
+### 10.12.2018:
+* 3 ve 10 Aralık'ta işlenen kaynak kodları eklendi.
+* İkinci proje ile ilgili bilgiler: 
+  * Ödev ile ilgili bilgiler:
+  * Veriliş tarihi: 10 Aralık 2018       Teslim tarihi: 24 Aralık 2018 saat: 24.00
+  * Ödevin teslimi: Grup üyelerinin numara ve adları ile birlikte kaynak kodların olduğu github linki (Ör: github.com/ahmetkara/ustortam/proje2/) ve web sitesine doğrudan link (Ör: https://ahmetkara.github.io/ustortam/proje2/) ozgun.yilmaz@ege.edu.tr adresine email ile gönderilecektir.
+  * Ödevin Konusu:
+    * Javascript ile kullanıcı girdisi kontrolü (user input validation) yapılacaktır. Ekteki proje2.html dosyasında kullanıcı girdilerinin istenen kurallara uygun olup olmadığını kontrol eden validateForm() fonksiyonunu yazınız. Bu fonksiyon, eğer girdilerde hatalar varsa bu durumu hata olan metin kutularının hemen yanında kırmızı bir mesajla kullanıcıya bildirip post işlemini iptal etmektedir. 
+    * Proje2.html dosyasında örnek olması açısından sadece bir hata kontrolü yapılmaktadır ve eğer hata varsa alert komutuyla bildirilmektedir. Fakat, siz alert kullanmadan (koda javascript ile metin ekleyerek) yapmaya çalışın. 
+
+
+
 ### 20.11.2018:
 * 19 Kasım'da işlenen kaynak kodları eklendi.
 
