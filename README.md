@@ -1,5 +1,8 @@
 ﻿# Duyurular
 
+### 02.01.2019:
+* Proje 1, 2 ve quiz notları kök dizine eklendi. 
+
 ### 10.12.2018:
 * 3 ve 10 Aralık'ta işlenen kaynak kodları eklendi.
 * İkinci proje ile ilgili bilgiler: 
