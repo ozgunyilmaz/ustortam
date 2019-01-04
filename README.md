@@ -1,5 +1,9 @@
 ﻿# Duyurular
 
+### 04.01.2019:
+* https://github.com/alisaitbilgi/React-Boilerplate/blob/master/BEFORE_EXAM.md linkinde sınava hazırlık yapabileceğiniz bir içerik mevcuttur. 
+* Ali hocanıza sınava kadar, anlattığı kısımlar ile ilgili, soru sorabilirsiniz.
+
 ### 02.01.2019:
 * Proje 1, 2 ve quiz notları kök dizine eklendi. 
 
